@@ -4,7 +4,8 @@ Welcome to Get Result, your one-stop destination for comprehensive information o
 How It Works:
 
 Search for Job Roles: Simply enter the job role you are interested in, such as Data Analyst, Software Engineer, or any other position.
-Get Detailed Information: After entering your desired job role, our system will display all the relevant details on your screen. This includes:
+Get Detailed Information: After entering your desired job role, our system will display all the relevant details on your screen. 
+This includes:
 Roadmaps: Step-by-step guides to help you understand the essential milestones and skills required for the role.
 Courses: Recommended courses that can provide you with the necessary knowledge and expertise.
 Tips: Expert advice and practical tips to excel in your chosen career path.
